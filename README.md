@@ -27,17 +27,17 @@
 
 - 主页
 
-  ![主页](https://pic.downk.cc/item/5e899d7b504f4bcb04e4ce48.jpg)
+  ![主页](https://github.com/gr2222/image/blob/master/mmLive/5e899d7b504f4bcb04e4ce48.jpg)
 
 - 弹幕发言
 
-  ![弹幕发言](https://pic.downk.cc/item/5e899db7504f4bcb04e50107.jpg)
+  ![弹幕发言](https://github.com/gr2222/image/blob/master/mmLive/5e899db7504f4bcb04e50107.jpg)
 
 - 互动区
 
-  ![互动区](https://pic.downk.cc/item/5e899de7504f4bcb04e52719.jpg)
+  ![互动区](https://github.com/gr2222/image/blob/master/mmLive/5e899de7504f4bcb04e52719.jpg)
 
 - 完整图
 
-  ![完整](https://pic.downk.cc/item/5e899eeb504f4bcb04e626e1.jpg)
+  ![完整](https://github.com/gr2222/image/blob/master/mmLive/5e899eeb504f4bcb04e626e1.jpg)
 
